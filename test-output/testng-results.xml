@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-27T18:18:09 EET" name="Default suite" finished-at="2023-04-27T18:18:16 EET" duration-ms="6625">
+    <groups>
+    </groups>
+    <test started-at="2023-04-27T18:18:09 EET" name="Default test" finished-at="2023-04-27T18:18:16 EET" duration-ms="6625">
+      <class name="tests.AddItemToCart">
+        <test-method is-config="true" signature="StartDriver()[pri:0, instance:tests.AddItemToCart@2d52216b]" started-at="2023-04-27T18:18:09 EET" name="StartDriver" finished-at="2023-04-27T18:18:14 EET" duration-ms="4845" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StartDriver -->
+        <test-method signature="addProductsToCart()[pri:0, instance:tests.AddItemToCart@2d52216b]" started-at="2023-04-27T18:18:14 EET" name="addProductsToCart" finished-at="2023-04-27T18:18:16 EET" duration-ms="1708" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addProductsToCart -->
+      </class> <!-- tests.AddItemToCart -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
